@@ -1,0 +1,15 @@
+{
+  "id": "kingmaker-styling",
+  "title": "Kingmaker Styling",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "scripts/pf2e-km.mjs"
+  ],
+  "styles": [
+    "styles/pf2e-km.css"
+  ]
+}
